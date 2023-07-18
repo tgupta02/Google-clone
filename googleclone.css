@@ -1,0 +1,65 @@
+
+body
+{
+    text-align:center;
+    margin-top:200px;
+}
+
+.logo{                           
+    width:450px;
+}
+
+.search-input{
+    width:500px;
+    height:24px;
+    color:rgb(8, 8, 9);
+    margin-top:20px;
+
+    font-weight: lighter;
+    font-style: italic;
+
+    border: 1px solid black;
+    border-radius: 24px;
+
+    padding-right: 8px;
+    padding-left: 8px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+
+}
+
+.buttons{
+    margin-top:30px;
+    
+}
+
+.but1{
+    color: #0f1419;
+    margin-right: 10px;
+    border-radius: 9px;
+    border:1px solid rgb(10, 9, 9);
+    background: gainsboro;
+    width:120px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right:5px;
+}
+
+.but2{
+    color: #0f1419;
+    margin-left: 10px;
+    border-radius: 9px;
+    border:1px solid rgb(10, 9, 9);
+    background: gainsboro;
+    width:130px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 8px;
+    padding-right:7px;
+}
+
+.para{
+    font-size: larger;
+    margin-top: 20px;
+}
